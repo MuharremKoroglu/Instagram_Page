@@ -25,9 +25,9 @@ This app is an Instagram account page and shows how developers can use the gradi
 <h2> Images <img src = "https://media2.giphy.com/media/psneItdLMpWy36ejfA/source.gif" width = 62px> </h2>
   <div class="row">
 <img width ='350px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/Synta_x/main/Synta_x_main.png'>
+     ='https://raw.githubusercontent.com/MuharremKoroglu/Instagram_Page/main/furkan.png'>
 <img width ='350px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/Synta_x/main/Synta_x_icon.png'>
+     ='https://raw.githubusercontent.com/MuharremKoroglu/Instagram_Page/main/furkan_logo.png'>
   </div>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'mailto:muharremkoroglu245@gmail.com'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/gmail-logo-2561.svg"/></a>
